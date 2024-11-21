@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/ZohoApi/bin/Debug/net6.0
+/.vs
+/ZohoApi/obj
